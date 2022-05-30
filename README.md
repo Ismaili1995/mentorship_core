@@ -1,2 +1,2 @@
 # mentorship_core
-Mentorship program for Developers and other professions
+BACKEND Mentorship program for Developers and other professions
